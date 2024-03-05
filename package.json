@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start-server": "nodemon --exec ts-node server/server.ts",
+    "start-client": "cd client && npm run dev",
+    "start": "concurrently \"npm run start-server\" \"npm run start-client\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

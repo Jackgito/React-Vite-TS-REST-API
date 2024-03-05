@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <topic name="Grocery List">
+    <note>
+      <text>Pizza</text>
+      <timestamp>5.3.2024</timestamp>
+    </note>
+    <note>
+      <text>Chocolate</text>
+      <timestamp>5.3.2024</timestamp>
+    </note>
+    <note>
+      <text>Strawberries</text>
+      <timestamp>7.3.2024</timestamp>
+    </note>
+  </topic>
+  <topic name="Test">
+    <note>
+      <text>Testing...</text>
+      <timestamp>7.3.2024</timestamp>
+    </note>
+  </topic>
+</data>
